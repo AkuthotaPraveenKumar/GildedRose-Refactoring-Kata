@@ -1,0 +1,39 @@
+{
+    "Aged Brie": [
+      {
+        "rate": -1
+      }
+    ],
+    "Sulfuras, Hand of Ragnaros": [
+      {
+        "fixed": true,
+        "fixedValue": 80
+      }
+    ],
+    "Backstage passes to a TAFKAL80ETC concert": [
+      {
+        "minDaysToSellIn": 10,
+        "rate": -1
+      },
+      {
+        "maxDaysToSellIn": 10,
+        "minDaysToSellIn": 5,
+        "rate": -2
+      },
+      {
+        "maxDaysToSellIn": 5,
+        "minDaysToSellIn": 0,
+        "rate": -3
+      },
+      {
+        "fixed": true,
+        "fixedValue": 0
+      }
+    ],
+    "Conjured Mana Cake": [
+      {
+        "rate": 2
+      }
+    ]
+  }
+  
